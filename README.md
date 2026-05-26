@@ -20,6 +20,6 @@
 - `index.html`: Core website structure.
 - `style.css`: Global styles and responsiveness management.
 - `/assets`: Directory containing optimized images, icons, and graphical resources.
-- ## 💻 Installation
+## 💻 Installation
  - To get a local copy up and running, clone this repository using:
   `git clone https://github.com/ali-alami-mrk/mon-portfolio.git`
