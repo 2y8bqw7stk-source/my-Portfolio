@@ -12,9 +12,9 @@
 - **Contact Section :** Integrated section to facilitate professional inquiries.
 
 ## 🛠️ Tech Stack
-- **Languages:** HTML, CSS
-- **Libraries/Icons:** Font Awesome
-- **Deployment:** Vercel
+- **Languages :** HTML, CSS
+- **Libraries/Icons :** Font Awesome
+- **Deployment :** Vercel
 
 ## 📂 Project Structure
 - `index.html`: Core website structure.
