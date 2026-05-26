@@ -6,10 +6,10 @@
 - **Live Demo:** [https://ali-alami-marktani.vercel.app/]
   
 ## 📌 Features
-- **Responsive Design:** Optimized navigation for mobile, tablet, and desktop using Flexbox and Media Queries.
-- **Projects Section:** Showcase of my work in **C++**, focusing on management systems and data structure implementations.
-- **User Experience (UX):** A clean and fluid interface designed for quick access to key information.
-- **Contact Section:** Integrated section to facilitate professional inquiries.
+- **Responsive Design :** Optimized navigation for mobile, tablet, and desktop using Flexbox and Media Queries.
+- **Projects Section :** Showcase of my work in **C++**, focusing on management systems and data structure implementations.
+- **User Experience (UX) :** A clean and fluid interface designed for quick access to key information.
+- **Contact Section :** Integrated section to facilitate professional inquiries.
 
 ## 🛠️ Tech Stack
 - **Languages:** HTML, CSS
